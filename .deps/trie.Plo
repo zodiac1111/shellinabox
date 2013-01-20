@@ -1,0 +1,89 @@
+trie.lo trie.o: libhttp/trie.c ./config.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/stdlib.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/features.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/cdefs.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/gnu/stubs.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/include/stddef.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/types.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/types.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/wordsize.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/typesizes.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/time.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/endian.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/endian.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/select.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/select.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/sigset.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/time.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/sysmacros.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/pthreadtypes.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/sched.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/alloca.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/string.h \
+  ./libhttp/trie.h ./libhttp/http.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/errno.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/errno.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/linux/errno.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/asm/errno.h \
+  /home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/include/stdarg.h \
+  ./logging/logging.h
+
+./config.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/stdlib.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/features.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/cdefs.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/gnu/stubs.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/include/stddef.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/types.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/types.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/wordsize.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/typesizes.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/time.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/endian.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/endian.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/select.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/select.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/sigset.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/time.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/sys/sysmacros.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/pthreadtypes.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/sched.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/alloca.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/string.h:
+
+./libhttp/trie.h:
+
+./libhttp/http.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/errno.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/bits/errno.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/linux/errno.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/../../../../arm-softfloat-linux-gnu/sys-include/asm/errno.h:
+
+/home/zodiac1111/Mysoft/arm-softfloat-linux-gnu/bin/../lib/gcc/arm-softfloat-linux-gnu/3.4.5/include/stdarg.h:
+
+./logging/logging.h:
